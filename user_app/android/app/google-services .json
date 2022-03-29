@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "484696085636",
+    "firebase_url": "https://cab-booking-app-d8314-default-rtdb.firebaseio.com",
+    "project_id": "cab-booking-app-d8314",
+    "storage_bucket": "cab-booking-app-d8314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484696085636:android:25991f462393a61aef5ed1",
+        "android_client_info": {
+          "package_name": "com.Jc.cabbookingdriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484696085636-dvnoi1r23hd7p9fubsq8iffpgf86mug8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePVW4khhkK1bneVp5SydIQYj4B5CNBNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484696085636-dvnoi1r23hd7p9fubsq8iffpgf86mug8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484696085636:android:702b738d69ce9a17ef5ed1",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484696085636-dvnoi1r23hd7p9fubsq8iffpgf86mug8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePVW4khhkK1bneVp5SydIQYj4B5CNBNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484696085636-dvnoi1r23hd7p9fubsq8iffpgf86mug8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
